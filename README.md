@@ -16,6 +16,7 @@ Welcome to my page! I'm Yongchun (Ryan) Chen, a Full Stack Developer with a pass
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## About Me
+![Profile Views](https://komarev.com/ghpvc/?username=yongchun780&color=blue)
 
 - 🌍 Based in Los Angeles, CA
 - 🎓 Master of Science in Spatial Data Science from USC
