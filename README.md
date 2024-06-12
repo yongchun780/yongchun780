@@ -42,11 +42,6 @@ Welcome to my page! I'm Yongchun (Ryan) Chen, a Full Stack Developer with a pass
 - **[NextJs-Messenger-Clone](https://github.com/yongchun-chen/nextjs-messenger-clone)** - A messenger clone built with Next.js and Firebase.
 - **[NextJs-Reddit-Clone](https://github.com/yongchun-chen/nextjs-reddit-clone)** - A Reddit clone built with Next.js and MongoDB.
 
-## GitHub Stats
-
-![Yongchun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yongchun-chen&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yongchun-chen&layout=compact&theme=radical)
-
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yongchun-chen)
