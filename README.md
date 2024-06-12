@@ -17,32 +17,23 @@ Welcome to my page! I'm Yongchun (Ryan) Chen, a Full Stack Developer with a pass
 
 ## About Me
 
-![Profile Views](https://komarev.com/ghpvc/?username=yongchun-chen&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=yongchun780&color=blue)
 
 - 🌍 Based in Los Angeles, CA
 - 💼 Currently working at Art Sphere, Inc.
 - 🎓 Master of Science in Spatial Data Science from USC
-- 🔭 I’m currently working on various web development projects
-- 🌱 I’m currently learning advanced cloud computing and machine learning techniques
 - 💬 Ask me about Java, Python, React, Spring Boot, and more
 - 📫 How to reach me: yongchun@usc.edu
-- ⚡ Fun fact: I enjoy hiking and exploring new places in my free time
+- ⚡ Fun fact: I enjoy rock climbing and hiking and exploring new places in my free time
 
 ## What I Do
 
-- **Frontend Development:** Creating stunning user interfaces with React.js, enhancing user experience.
 - **Backend Development:** Building robust server-side solutions using Java, Spring Boot, and Node.js.
+- **Frontend Development:** Creating stunning user interfaces with React.js, enhancing user experience.
 - **Cloud Services:** Deploying applications on AWS and GCP, leveraging services like EC2, RDS, and Firebase.
 - **Database Management:** Expertise in SQL/NoSQL databases including MySQL, MongoDB, and MSSQL.
 - **CI/CD:** Streamlining deployment processes with Jenkins and Docker for efficient code integration and delivery.
 
-
-
-## Projects
-
-- **[Social Trend Monitor](https://github.com/yongchun-chen/social-trend-monitor)** - A real-time system to monitor social media trends using Kafka, Redis, and D3.js.
-- **[NextJs-Messenger-Clone](https://github.com/yongchun-chen/nextjs-messenger-clone)** - A messenger clone built with Next.js and Firebase.
-- **[NextJs-Reddit-Clone](https://github.com/yongchun-chen/nextjs-reddit-clone)** - A Reddit clone built with Next.js and MongoDB.
 
 ## Let's Connect
 
