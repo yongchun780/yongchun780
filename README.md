@@ -17,8 +17,6 @@ Welcome to my page! I'm Yongchun (Ryan) Chen, a Full Stack Developer with a pass
 
 ## About Me
 
-![Profile Views](https://komarev.com/ghpvc/?username=yongchun780&color=blue)
-
 - 🌍 Based in Los Angeles, CA
 - 💼 Currently working at Art Sphere, Inc.
 - 🎓 Master of Science in Spatial Data Science from USC
