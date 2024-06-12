@@ -1,6 +1,6 @@
 # Hey! Nice to see you. 👋
 
-Welcome to my page! I'm Yongchun (Ryan) Chen, a Full Stack Developer with a passion for creating elegant and efficient solutions. I have experience working with a wide range of technologies and enjoy bringing ideas to life through code.
+Welcome to my page! I'm Yongchun (Ryan) Chen, a Full Stack Developer with a passion for creating elegant and efficient solutions. I have experience working with a wide range of technologies and enjoy bringing ideas to life through code. I look forward to collaborating with you! 
 
 ## My Skills
 
@@ -18,8 +18,8 @@ Welcome to my page! I'm Yongchun (Ryan) Chen, a Full Stack Developer with a pass
 ## About Me
 
 - 🌍 Based in Los Angeles, CA
-- 💼 Currently working at Art Sphere, Inc.
 - 🎓 Master of Science in Spatial Data Science from USC
+- 🧑‍🎓 Currently Persuing Master of Science in Computer Science
 - 💬 Ask me about Java, Python, React, Spring Boot, and more
 - 📫 How to reach me: yongchun@usc.edu
 - ⚡ Fun fact: I enjoy rock climbing and hiking and exploring new places in my free time
