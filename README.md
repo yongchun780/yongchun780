@@ -22,7 +22,7 @@ Welcome to my page! I'm Yongchun (Ryan) Chen, a Full Stack Developer with a pass
 - 🎓 Master of Science in Spatial Data Science from USC
 - 🧑‍🎓 Currently Persuing Master of Science in Computer Science
 - 💬 Ask me about Java, Python, React, Spring Boot, and more
-- 📫 How to reach me: yongchun@usc.edu
+- 📫 How to reach me: yongchun780@gmail.com
 - ⚡ Fun fact: I enjoy rock climbing and hiking and exploring new places in my free time
 
 ## What I Do
