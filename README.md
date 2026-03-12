@@ -1,6 +1,6 @@
 # Hey! Nice to see you. 👋
 
-Welcome to my page! I'm Yongchun (Ryan) Chen, a Full Stack Developer with a passion for creating elegant and efficient solutions. I have experience working with a wide range of technologies and enjoy bringing ideas to life through code. I look forward to collaborating with you! 
+Welcome to my page! I'm Yongchun Chen, a Full Stack Developer with a passion for creating elegant and efficient solutions. I have experience working with a wide range of technologies and enjoy bringing ideas to life through code. I look forward to collaborating with you! 
 
 ## My Skills
 
